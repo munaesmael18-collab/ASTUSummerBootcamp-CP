@@ -9,6 +9,7 @@ leetcode
 | [0033-search-in-rotated-sorted-array](https://github.com/munaesmael18-collab/ASTUSummerBootcamp-CP/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/munaesmael18-collab/ASTUSummerBootcamp-CP/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/munaesmael18-collab/ASTUSummerBootcamp-CP/tree/master/0049-group-anagrams) |
+| [0349-intersection-of-two-arrays](https://github.com/munaesmael18-collab/ASTUSummerBootcamp-CP/tree/master/0349-intersection-of-two-arrays) |
 | [0832-flipping-an-image](https://github.com/munaesmael18-collab/ASTUSummerBootcamp-CP/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/munaesmael18-collab/ASTUSummerBootcamp-CP/tree/master/0867-transpose-matrix) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/munaesmael18-collab/ASTUSummerBootcamp-CP/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
@@ -26,6 +27,7 @@ leetcode
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/munaesmael18-collab/ASTUSummerBootcamp-CP/tree/master/0049-group-anagrams) |
+| [0349-intersection-of-two-arrays](https://github.com/munaesmael18-collab/ASTUSummerBootcamp-CP/tree/master/0349-intersection-of-two-arrays) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/munaesmael18-collab/ASTUSummerBootcamp-CP/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## String
 |  |
@@ -41,6 +43,7 @@ leetcode
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/munaesmael18-collab/ASTUSummerBootcamp-CP/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0344-reverse-string](https://github.com/munaesmael18-collab/ASTUSummerBootcamp-CP/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/munaesmael18-collab/ASTUSummerBootcamp-CP/tree/master/0349-intersection-of-two-arrays) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/munaesmael18-collab/ASTUSummerBootcamp-CP/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0832-flipping-an-image](https://github.com/munaesmael18-collab/ASTUSummerBootcamp-CP/tree/master/0832-flipping-an-image) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/munaesmael18-collab/ASTUSummerBootcamp-CP/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -55,11 +58,13 @@ leetcode
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/munaesmael18-collab/ASTUSummerBootcamp-CP/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/munaesmael18-collab/ASTUSummerBootcamp-CP/tree/master/0035-search-insert-position) |
+| [0349-intersection-of-two-arrays](https://github.com/munaesmael18-collab/ASTUSummerBootcamp-CP/tree/master/0349-intersection-of-two-arrays) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/munaesmael18-collab/ASTUSummerBootcamp-CP/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Sorting
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/munaesmael18-collab/ASTUSummerBootcamp-CP/tree/master/0049-group-anagrams) |
+| [0349-intersection-of-two-arrays](https://github.com/munaesmael18-collab/ASTUSummerBootcamp-CP/tree/master/0349-intersection-of-two-arrays) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/munaesmael18-collab/ASTUSummerBootcamp-CP/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Dynamic Programming
 |  |
