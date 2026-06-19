@@ -6,6 +6,7 @@ leetcode
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/munaesmael18-collab/ASTUSummerBootcamp-CP/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0033-search-in-rotated-sorted-array](https://github.com/munaesmael18-collab/ASTUSummerBootcamp-CP/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/munaesmael18-collab/ASTUSummerBootcamp-CP/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/munaesmael18-collab/ASTUSummerBootcamp-CP/tree/master/0049-group-anagrams) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/munaesmael18-collab/ASTUSummerBootcamp-CP/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -42,6 +43,7 @@ leetcode
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/munaesmael18-collab/ASTUSummerBootcamp-CP/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/munaesmael18-collab/ASTUSummerBootcamp-CP/tree/master/0035-search-insert-position) |
 ## Sorting
 |  |
