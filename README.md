@@ -16,6 +16,7 @@ leetcode
 | [0867-transpose-matrix](https://github.com/munaesmael18-collab/ASTUSummerBootcamp-CP/tree/master/0867-transpose-matrix) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/munaesmael18-collab/ASTUSummerBootcamp-CP/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/munaesmael18-collab/ASTUSummerBootcamp-CP/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2760-longest-even-odd-subarray-with-threshold](https://github.com/munaesmael18-collab/ASTUSummerBootcamp-CP/tree/master/2760-longest-even-odd-subarray-with-threshold) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/munaesmael18-collab/ASTUSummerBootcamp-CP/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/munaesmael18-collab/ASTUSummerBootcamp-CP/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3895-count-digit-appearances](https://github.com/munaesmael18-collab/ASTUSummerBootcamp-CP/tree/master/3895-count-digit-appearances) |
@@ -99,4 +100,5 @@ leetcode
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/munaesmael18-collab/ASTUSummerBootcamp-CP/tree/master/0643-maximum-average-subarray-i) |
+| [2760-longest-even-odd-subarray-with-threshold](https://github.com/munaesmael18-collab/ASTUSummerBootcamp-CP/tree/master/2760-longest-even-odd-subarray-with-threshold) |
 <!---LeetCode Topics End-->
