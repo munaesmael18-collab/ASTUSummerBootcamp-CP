@@ -7,6 +7,7 @@ leetcode
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/munaesmael18-collab/ASTUSummerBootcamp-CP/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/munaesmael18-collab/ASTUSummerBootcamp-CP/tree/master/0035-search-insert-position) |
+| [0049-group-anagrams](https://github.com/munaesmael18-collab/ASTUSummerBootcamp-CP/tree/master/0049-group-anagrams) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/munaesmael18-collab/ASTUSummerBootcamp-CP/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/munaesmael18-collab/ASTUSummerBootcamp-CP/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3895-count-digit-appearances](https://github.com/munaesmael18-collab/ASTUSummerBootcamp-CP/tree/master/3895-count-digit-appearances) |
@@ -19,10 +20,12 @@ leetcode
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/munaesmael18-collab/ASTUSummerBootcamp-CP/tree/master/0049-group-anagrams) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/munaesmael18-collab/ASTUSummerBootcamp-CP/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/munaesmael18-collab/ASTUSummerBootcamp-CP/tree/master/0049-group-anagrams) |
 | [0344-reverse-string](https://github.com/munaesmael18-collab/ASTUSummerBootcamp-CP/tree/master/0344-reverse-string) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/munaesmael18-collab/ASTUSummerBootcamp-CP/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3110-score-of-a-string](https://github.com/munaesmael18-collab/ASTUSummerBootcamp-CP/tree/master/3110-score-of-a-string) |
@@ -40,4 +43,8 @@ leetcode
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/munaesmael18-collab/ASTUSummerBootcamp-CP/tree/master/0035-search-insert-position) |
+## Sorting
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/munaesmael18-collab/ASTUSummerBootcamp-CP/tree/master/0049-group-anagrams) |
 <!---LeetCode Topics End-->
