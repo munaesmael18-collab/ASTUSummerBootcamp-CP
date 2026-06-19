@@ -11,6 +11,7 @@ leetcode
 | [0036-valid-sudoku](https://github.com/munaesmael18-collab/ASTUSummerBootcamp-CP/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/munaesmael18-collab/ASTUSummerBootcamp-CP/tree/master/0049-group-anagrams) |
 | [0349-intersection-of-two-arrays](https://github.com/munaesmael18-collab/ASTUSummerBootcamp-CP/tree/master/0349-intersection-of-two-arrays) |
+| [0643-maximum-average-subarray-i](https://github.com/munaesmael18-collab/ASTUSummerBootcamp-CP/tree/master/0643-maximum-average-subarray-i) |
 | [0832-flipping-an-image](https://github.com/munaesmael18-collab/ASTUSummerBootcamp-CP/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/munaesmael18-collab/ASTUSummerBootcamp-CP/tree/master/0867-transpose-matrix) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/munaesmael18-collab/ASTUSummerBootcamp-CP/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
@@ -94,4 +95,8 @@ leetcode
 | [0036-valid-sudoku](https://github.com/munaesmael18-collab/ASTUSummerBootcamp-CP/tree/master/0036-valid-sudoku) |
 | [0832-flipping-an-image](https://github.com/munaesmael18-collab/ASTUSummerBootcamp-CP/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/munaesmael18-collab/ASTUSummerBootcamp-CP/tree/master/0867-transpose-matrix) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/munaesmael18-collab/ASTUSummerBootcamp-CP/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
