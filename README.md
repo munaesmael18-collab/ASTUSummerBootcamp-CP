@@ -42,6 +42,7 @@ leetcode
 | [0036-valid-sudoku](https://github.com/munaesmael18-collab/ASTUSummerBootcamp-CP/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/munaesmael18-collab/ASTUSummerBootcamp-CP/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/munaesmael18-collab/ASTUSummerBootcamp-CP/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/munaesmael18-collab/ASTUSummerBootcamp-CP/tree/master/0076-minimum-window-substring) |
 | [0349-intersection-of-two-arrays](https://github.com/munaesmael18-collab/ASTUSummerBootcamp-CP/tree/master/0349-intersection-of-two-arrays) |
 | [0594-longest-harmonious-subsequence](https://github.com/munaesmael18-collab/ASTUSummerBootcamp-CP/tree/master/0594-longest-harmonious-subsequence) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/munaesmael18-collab/ASTUSummerBootcamp-CP/tree/master/3760-maximum-substrings-with-distinct-start) |
@@ -49,6 +50,7 @@ leetcode
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/munaesmael18-collab/ASTUSummerBootcamp-CP/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/munaesmael18-collab/ASTUSummerBootcamp-CP/tree/master/0076-minimum-window-substring) |
 | [0344-reverse-string](https://github.com/munaesmael18-collab/ASTUSummerBootcamp-CP/tree/master/0344-reverse-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/munaesmael18-collab/ASTUSummerBootcamp-CP/tree/master/0557-reverse-words-in-a-string-iii) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/munaesmael18-collab/ASTUSummerBootcamp-CP/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -128,6 +130,7 @@ leetcode
 ## Sliding Window
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/munaesmael18-collab/ASTUSummerBootcamp-CP/tree/master/0076-minimum-window-substring) |
 | [0594-longest-harmonious-subsequence](https://github.com/munaesmael18-collab/ASTUSummerBootcamp-CP/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/munaesmael18-collab/ASTUSummerBootcamp-CP/tree/master/0643-maximum-average-subarray-i) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/munaesmael18-collab/ASTUSummerBootcamp-CP/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
