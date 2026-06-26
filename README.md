@@ -18,6 +18,7 @@ leetcode
 | [0643-maximum-average-subarray-i](https://github.com/munaesmael18-collab/ASTUSummerBootcamp-CP/tree/master/0643-maximum-average-subarray-i) |
 | [0832-flipping-an-image](https://github.com/munaesmael18-collab/ASTUSummerBootcamp-CP/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/munaesmael18-collab/ASTUSummerBootcamp-CP/tree/master/0867-transpose-matrix) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/munaesmael18-collab/ASTUSummerBootcamp-CP/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/munaesmael18-collab/ASTUSummerBootcamp-CP/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/munaesmael18-collab/ASTUSummerBootcamp-CP/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/munaesmael18-collab/ASTUSummerBootcamp-CP/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -90,6 +91,7 @@ leetcode
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/munaesmael18-collab/ASTUSummerBootcamp-CP/tree/master/0042-trapping-rain-water) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/munaesmael18-collab/ASTUSummerBootcamp-CP/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/munaesmael18-collab/ASTUSummerBootcamp-CP/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 ## Stack
 |  |
@@ -124,6 +126,7 @@ leetcode
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/munaesmael18-collab/ASTUSummerBootcamp-CP/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/munaesmael18-collab/ASTUSummerBootcamp-CP/tree/master/0643-maximum-average-subarray-i) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/munaesmael18-collab/ASTUSummerBootcamp-CP/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [2760-longest-even-odd-subarray-with-threshold](https://github.com/munaesmael18-collab/ASTUSummerBootcamp-CP/tree/master/2760-longest-even-odd-subarray-with-threshold) |
 ## Depth-First Search
 |  |
