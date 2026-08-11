@@ -13,6 +13,7 @@ leetcode
 | [0042-trapping-rain-water](https://github.com/munaesmael18-collab/ASTUSummerBootcamp-CP/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/munaesmael18-collab/ASTUSummerBootcamp-CP/tree/master/0049-group-anagrams) |
 | [0349-intersection-of-two-arrays](https://github.com/munaesmael18-collab/ASTUSummerBootcamp-CP/tree/master/0349-intersection-of-two-arrays) |
+| [0455-assign-cookies](https://github.com/munaesmael18-collab/ASTUSummerBootcamp-CP/tree/master/0455-assign-cookies) |
 | [0463-island-perimeter](https://github.com/munaesmael18-collab/ASTUSummerBootcamp-CP/tree/master/0463-island-perimeter) |
 | [0594-longest-harmonious-subsequence](https://github.com/munaesmael18-collab/ASTUSummerBootcamp-CP/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/munaesmael18-collab/ASTUSummerBootcamp-CP/tree/master/0643-maximum-average-subarray-i) |
@@ -64,6 +65,7 @@ leetcode
 | [0042-trapping-rain-water](https://github.com/munaesmael18-collab/ASTUSummerBootcamp-CP/tree/master/0042-trapping-rain-water) |
 | [0344-reverse-string](https://github.com/munaesmael18-collab/ASTUSummerBootcamp-CP/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/munaesmael18-collab/ASTUSummerBootcamp-CP/tree/master/0349-intersection-of-two-arrays) |
+| [0455-assign-cookies](https://github.com/munaesmael18-collab/ASTUSummerBootcamp-CP/tree/master/0455-assign-cookies) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/munaesmael18-collab/ASTUSummerBootcamp-CP/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0832-flipping-an-image](https://github.com/munaesmael18-collab/ASTUSummerBootcamp-CP/tree/master/0832-flipping-an-image) |
 | [0917-reverse-only-letters](https://github.com/munaesmael18-collab/ASTUSummerBootcamp-CP/tree/master/0917-reverse-only-letters) |
@@ -90,6 +92,7 @@ leetcode
 | ------- |
 | [0049-group-anagrams](https://github.com/munaesmael18-collab/ASTUSummerBootcamp-CP/tree/master/0049-group-anagrams) |
 | [0349-intersection-of-two-arrays](https://github.com/munaesmael18-collab/ASTUSummerBootcamp-CP/tree/master/0349-intersection-of-two-arrays) |
+| [0455-assign-cookies](https://github.com/munaesmael18-collab/ASTUSummerBootcamp-CP/tree/master/0455-assign-cookies) |
 | [0594-longest-harmonious-subsequence](https://github.com/munaesmael18-collab/ASTUSummerBootcamp-CP/tree/master/0594-longest-harmonious-subsequence) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/munaesmael18-collab/ASTUSummerBootcamp-CP/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/munaesmael18-collab/ASTUSummerBootcamp-CP/tree/master/2545-sort-the-students-by-their-kth-score) |
@@ -109,6 +112,7 @@ leetcode
 ## Greedy
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/munaesmael18-collab/ASTUSummerBootcamp-CP/tree/master/0455-assign-cookies) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/munaesmael18-collab/ASTUSummerBootcamp-CP/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/munaesmael18-collab/ASTUSummerBootcamp-CP/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Monotonic Stack
@@ -154,4 +158,8 @@ leetcode
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/munaesmael18-collab/ASTUSummerBootcamp-CP/tree/master/0594-longest-harmonious-subsequence) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/munaesmael18-collab/ASTUSummerBootcamp-CP/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
